@@ -1,0 +1,8 @@
+{
+"list" :		"Generate a list of [x] numbers from 1 to [max]. Has the format [x]d[max], where d can be any non-numeral character.
+Eg, '-roll 3d6' or '-roll 4n10'
+That is assuming that you want numbers with a minimum of 1. If you want a different minimum value, then you use the format [x]d[max]d[min], where d can be any non-numeral character.
+Eg '-roll 3d6n2' or '-roll 4n10n2'
+"roll" :		"Roll xdY. That is, roll X dice with Y sides. Has the format -roll xdY, where d can be any non-numeral
+Eg, '-roll 3d6' or '-roll 4n10'",
+}

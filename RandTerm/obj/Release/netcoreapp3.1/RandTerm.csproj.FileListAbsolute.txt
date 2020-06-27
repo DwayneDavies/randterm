@@ -1,0 +1,15 @@
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\netcoreapp3.1\RandTerm.exe
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\netcoreapp3.1\RandTerm.deps.json
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\netcoreapp3.1\RandTerm.runtimeconfig.json
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\netcoreapp3.1\RandTerm.runtimeconfig.dev.json
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\netcoreapp3.1\RandTerm.dll
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\netcoreapp3.1\RandTerm.pdb
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Release\netcoreapp3.1\RandTerm.csprojAssemblyReference.cache
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Release\netcoreapp3.1\RandTerm.AssemblyInfoInputs.cache
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Release\netcoreapp3.1\RandTerm.AssemblyInfo.cs
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Release\netcoreapp3.1\RandTerm.csproj.CoreCompileInputs.cache
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Release\netcoreapp3.1\RandTerm.csproj.CopyComplete
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Release\netcoreapp3.1\RandTerm.dll
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Release\netcoreapp3.1\RandTerm.pdb
+C:\Users\dwayn\source\repos\RandTerm\RandTerm\obj\Release\netcoreapp3.1\RandTerm.genruntimeconfig.cache
